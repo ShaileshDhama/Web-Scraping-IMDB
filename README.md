@@ -15,10 +15,13 @@ Let’s look at the applications of Web Scraping:
     4.Research and Development: Web scraping is used to collect a large set of data (Statistics, General Information, Temperature, etc.) from websites, which are analyzed and  used to carry out Surveys or for R&D.
     5.Job listings: Details regarding job openings, interviews are collected from different websites and then listed in one place so that it is easily accessible to the user.
 
-### Business problem: Web Scraping to count total number of views of all videos on 1st page of Youtube for given keyword Keyword:Python.
+### Business problem: 
 
+    Web Scraping to count total number of views of all videos on 1st page of Youtube for given keyword Keyword:'Python'.
 
-### Dataset : Valid links of a webpage works as dataset in Web Scraping
+### Dataset : 
+
+    Valid links of a webpage works as dataset in Web Scraping.
 
 ### Required Libraries :
 
@@ -39,33 +42,29 @@ Let’s look at the applications of Web Scraping:
 ![graph1](./Scraping.JPG)
 > Raw Information obtained after requesting information from url.
 
-![graph1](./Scraping.JPG)
-> Raw Information obtained after requesting information from url.
+![graph2](./Scraping1.JPG)
+> Top 10 movies with highest box-office records.
 
-![graph1](./images/visual1.png)
-> Sentence about visualization.
 #### Web Scraping on Youtube to obtain total views
 
-![graph2](./images/visual2.png)
-> Sentence about visualization.
+![graph3](./SCRAPING1.PNG)
+> Raw Information obtained after requesting information from url.
 
-![graph2](./images/visual2.png)
-> Sentence about visualization.
+![graph4](./SCRAPING2.PNG)
+> Obtained Meta-Info elements of information.
 
-![graph2](./images/visual2.png)
-> Sentence about visualization.
+![graph5](./SCRAPING3.PNG)
+> Total number of views for the videos with keyword "Python".
+
 ### For further information
-Please review the narrative of our analysis in [our jupyter notebook](./main_notebook.ipynb)
+Please review the narrative of our analysis in [our jupyter notebook](./WEB%20SCRAPING-MIN%20PROJECT.ipynb)
 
 For any additional questions, please contact **shaileshshettyd@gmail.com)
 
-
 ##### Repository Structure:
 
-Here is where you would describe the structure of your repoistory and its contents, for exampe:
-
 ```
-├── README.md                       <- The top-level README for reviewers of this project.
-├── main_notebook.ipynb             <- narrative documentation of analysis in jupyter notebook
-└── images                          <- both sourced externally and generated from code
+├── README.md                           <- The top-level README for reviewers of this project.
+├── WEB SCRAPING-MIN PROJECT.ipynb  <- narrative documentation of analysis in jupyter notebook
+└── images                              <- both sourced externally and generated from code
 ```
